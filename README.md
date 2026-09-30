@@ -41,5 +41,4 @@ The Jenkins pipeline contains:
 
 ## Project Status
 
-The project is configured with Maven and JUnit for reliable automated testing.
-
+The project is configured with Maven and JUnit for reliable automated build and testing.
