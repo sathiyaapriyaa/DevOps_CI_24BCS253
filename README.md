@@ -38,3 +38,6 @@ The Jenkins pipeline contains:
 2. Build
 3. Test
 4. Result
+## Project Status
+
+The project is configured with Maven and JUnit for automated build and testing.
