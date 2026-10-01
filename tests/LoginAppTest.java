@@ -13,7 +13,7 @@ public class LoginAppTest {
 
     @Test
     void testInvalidPassword() {
-        assertFalse(loginApp.login("sathiya", "wrong"));
+        assertFalse(loginApp.login("sathiya", "wrongpassword"));
     }
 
     @Test
